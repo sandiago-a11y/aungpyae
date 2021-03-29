@@ -1,0 +1,80 @@
+body{
+  background-color: #303841;
+  text-align: center;
+  font-style: 'arial';
+  background-image: url("images/background-img1.png");
+
+}
+
+.header{
+  margin:5% 5% 0;
+  background-color: #0a043c ;
+    width:90%;
+}
+.body{
+  background-image: url("images/background-img.png");
+  opacity: 1;
+  margin:0 5% 0;
+  background-color: #fff  ;
+  height:100%;
+  width:90%;
+  padding: 50px 0;
+}
+.contact-div{
+  background-color: #0a043c;
+  margin:0 5% 5%;
+  height: 200px;
+  text-align: left;
+}
+/* Fonts */
+.page-header{
+  font-size: 200%;
+  font-weight: bold;
+  color:#433520;
+}
+.headertext{
+  font-size: 200%;
+  font-weight: bold;
+  margin:0;
+  color:#fff;
+}
+.sub-headertext{
+  color:#fff;
+font-size:120%;
+margin:0;
+font-family: 'arial';
+}
+.payee-name{
+  color:#433520;
+  font-size: 150%;
+  text-align: left;
+  font-weight: bold;
+  margin: 5px 50px 5px;
+  font-family: 'arial';
+}
+.amount{
+  font-size: 130%;
+  text-align: left;
+  font-weight: bold;
+  margin: 30px 50px 5px;
+  font-family: 'arial';
+  color:red;
+}
+.input{
+  font-size: 2rem;
+  color: #433520;
+  font-weight: bold;
+  width: 150px;
+  height: 30px;
+  margin: 10px 0;
+}
+label{
+float:left;
+margin:0 20px 0 0;
+}
+.address{
+  color:#fff;
+  font-size:120%;
+  margin:0% 5%;
+
+}

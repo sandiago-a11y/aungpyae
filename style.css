@@ -3,7 +3,7 @@ body{
   text-align: center;
   font-style: 'arial';
   background-image: url("images/background-img1.png");
-
+  height:700px;
 }
 
 .header{
